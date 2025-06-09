@@ -52,4 +52,3 @@ The internet needs a decentralized payment layer. One that doesn’t siphon off 
 
 ---
 
-Let me know when you're ready to add this to GitHub, or if you'd like a version formatted for your personal site or pitch deck.
